@@ -32,6 +32,5 @@
 - [x] Preparar documentação para o uso e instalação do sistema.
 - [x] Criar arquivo compactado com todo o sistema.
 - [x] Validar funcionamento completo do sistema.
-- [x] Empacotar o projeto para entrega.
-- [x] Criar resumo das alterações implementadas.
+- [ ] Empacotar o projeto para entrega.
 
