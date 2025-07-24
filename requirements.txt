@@ -1,6 +1,3 @@
 Flask==2.3.3
 Flask-Cors==4.0.0
-echo "gunicorn==21.2.0" >> requirements.txt
-git add requirements.txt
-git commit -m "Adiciona gunicorn para produção"
-git push
+gunicorn==21.2.0
